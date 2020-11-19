@@ -1,0 +1,133 @@
+@media only screen and (max-width: 993px) {
+    .ourVision {
+        text-align: center;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    div#navbar_spy {
+        display: none;
+    }
+    .display-4,
+    .display-3 {
+        font-size: 2.5rem;
+    }
+    .navbar .navbar-toggler {
+        display: flex;
+        align-items: center;
+    }
+    .navbar-brand.title,
+    .top-nav-collapse .navbar-brand.title {
+        /* filter: brightness(15); */
+        background-image: url(../img/logo/logo.png) !important;
+        background-repeat: no-repeat;
+        background-size: contain;
+        transition: all 0.3s;
+        height: 30px;
+        padding: 0px;
+    }
+    .navbar {
+        background: #fff;
+        box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
+        height: 50px;
+        padding: 0px 10px;
+    }
+    .navbar .navbar-collapse {
+        background: #fff;
+        position: absolute;
+        width: 100%;
+        left: 0;
+        top: 50px;
+        max-height: calc(100vh - 50px);
+        overflow: auto;
+        box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.2);
+    }
+    .navbar .nav-item .nav-link {
+        color: #000;
+        min-width: 100%;
+    }
+    li.nav-item.dropdown {
+        text-align: left;
+        justify-content: end;
+        flex-direction: column;
+    }
+
+    li.nav-item .dropdown_menu {
+        position: inherit;
+        width: calc(100% - 30px);
+        /* opacity: 1; */
+        /* height: auto; */
+        /* transform: scale(1); */
+        margin-left: -20px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .slick-prev {
+    left: -10px !important;
+}
+.slick-next {
+    right: -10px !important;
+}
+    .box-mainslide .view img {
+        height: 100%;
+        object-fit: cover;
+        object-position: 74%;
+        min-height: 100vh;
+    }
+    .arrowdown img {
+        height: 30px;
+    }
+    .view .mask {
+        align-items: end!important;
+        padding-top: 80px;
+    }
+    .title {
+        font-size: 22px;
+    }
+    #contactus .rgba-black-strong.rounded.p-5 {
+        padding-top: 1rem!important;
+    }
+    .navbar .nav-item .nav-link {
+        font-size: 1rem;
+    }
+    input.searchfld {
+        width: 100%;
+    }
+    .searchSection {
+        padding: 20px 30px 20px 20px;
+    }
+    input.searchfld {
+        height: 60px;
+        font-size: 26px;
+    }
+    p.h5 {
+        font-size: 1rem;
+        line-height: 1.4rem;
+    }
+    .btn.btn-lg {
+        padding: 10px 20px!important;
+        font-size: .8rem;
+    }
+    .display-4,
+    .display-3 {
+        font-size: 2rem;
+        margin-bottom: 1rem!important;
+    }
+    .ourVision > span {
+        flex: 0 0 33.3%;
+        max-width: 33.3%;
+        border: 1px solid #ccc!important;
+    }
+    h1.display-4.oswaldFont {
+        font-size: 2em;
+    }  
+    .arrowdown {
+        animation: arrowmove 3s infinite;
+    }
+    @keyframes arrowmove {
+        0% {bottom: 50px;}
+        50% {bottom: 30px;}
+        100% {bottom: 50px;}
+    } 
+}

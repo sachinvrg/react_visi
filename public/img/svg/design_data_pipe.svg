@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1792" height="405" viewBox="0 0 1792 405">
+  <defs>
+    <filter id="Rectangle_1" x="0" y="93" width="413" height="244" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="28" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2" x="276" y="93" width="413" height="244" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="28" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3" x="551" y="25" width="414" height="244" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="28" result="blur-3"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_7" x="551" y="161" width="414" height="244" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="28" result="blur-4"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_8" x="1378" y="161" width="414" height="244" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="28" result="blur-5"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_4" x="827" y="93" width="413" height="244" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="28" result="blur-6"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_5" x="1103" y="93" width="413" height="244" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="28" result="blur-7"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_6" x="1378" y="25" width="413" height="244" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="28" result="blur-8"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_86" data-name="Group 86" transform="translate(-85 -286)">
+    <line id="Line_4" data-name="Line 4" x2="1103" transform="translate(414.5 501.5)" fill="none" stroke="#004188" stroke-width="2"/>
+    <text id="Design_Data_Pipeline" data-name="Design Data Pipeline" transform="translate(960 323)" fill="#00254d" font-size="39" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-181.413" y="0">Design Data Pipeline</tspan></text>
+    <line id="Line_1" data-name="Line 1" x2="399" transform="translate(375.5 309.5)" fill="none" stroke="#004188" stroke-width="2" stroke-dasharray="10"/>
+    <line id="Line_2" data-name="Line 2" x2="399" transform="translate(1145.5 309.5)" fill="none" stroke="#004188" stroke-width="2" stroke-dasharray="10"/>
+    <path id="Polygon_1" data-name="Polygon 1" d="M9.766,3.015a2,2,0,0,1,3.468,0L21.277,17a2,2,0,0,1-1.734,3H3.457a2,2,0,0,1-1.734-3Z" transform="matrix(0.848, -0.53, 0.53, 0.848, 1524.448, 303.614)" fill="#004188"/>
+    <line id="Line_3" data-name="Line 3" y2="47" transform="translate(365.5 286.5)" fill="none" stroke="#00254d" stroke-width="2"/>
+    <g transform="matrix(1, 0, 0, 1, 85, 286)" filter="url(#Rectangle_1)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="245" height="76" rx="20" transform="translate(84 177)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 85, 286)" filter="url(#Rectangle_2)">
+      <rect id="Rectangle_2-2" data-name="Rectangle 2" width="245" height="76" rx="20" transform="translate(360 177)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 85, 286)" filter="url(#Rectangle_3)">
+      <rect id="Rectangle_3-2" data-name="Rectangle 3" width="246" height="76" rx="20" transform="translate(635 109)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 85, 286)" filter="url(#Rectangle_7)">
+      <rect id="Rectangle_7-2" data-name="Rectangle 7" width="246" height="76" rx="20" transform="translate(635 245)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 85, 286)" filter="url(#Rectangle_8)">
+      <rect id="Rectangle_8-2" data-name="Rectangle 8" width="246" height="76" rx="20" transform="translate(1462 245)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 85, 286)" filter="url(#Rectangle_4)">
+      <rect id="Rectangle_4-2" data-name="Rectangle 4" width="245" height="76" rx="20" transform="translate(911 177)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 85, 286)" filter="url(#Rectangle_5)">
+      <rect id="Rectangle_5-2" data-name="Rectangle 5" width="245" height="76" rx="20" transform="translate(1187 177)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 85, 286)" filter="url(#Rectangle_6)">
+      <rect id="Rectangle_6-2" data-name="Rectangle 6" width="245" height="76" rx="20" transform="translate(1462 109)" fill="#fff"/>
+    </g>
+    <text id="INGEST" transform="translate(292 510)" fill="#00254d" font-size="24" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-41.695" y="0">INGEST</tspan></text>
+    <text id="STORE" transform="translate(572 510)" fill="#00254d" font-size="24" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-37.33" y="0">STORE</tspan></text>
+    <text id="MANAGE" transform="translate(843 442)" fill="#00254d" font-size="24" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-50.145" y="0">MANAGE</tspan></text>
+    <text id="MINE" transform="translate(843 578)" fill="#00254d" font-size="24" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-29.232" y="0">MINE</tspan></text>
+    <text id="PREPARE" transform="translate(1119 510)" fill="#00254d" font-size="24" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-51.328" y="0">PREPARE</tspan></text>
+    <text id="MODEL" transform="translate(1402 510)" fill="#00254d" font-size="24" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-39.844" y="0">MODEL</tspan></text>
+    <text id="EXPOSE" transform="translate(1670 442)" fill="#00254d" font-size="24" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-44.525" y="0">EXPOSE</tspan></text>
+    <text id="VISUALIZE" transform="translate(1670 578)" fill="#00254d" font-size="24" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-58.582" y="0">VISUALIZE</tspan></text>
+    <path id="Path_267" data-name="Path 267" d="M635.383,1716v-27.539h84.758" transform="translate(0 -1253)" fill="none" stroke="#00254d" stroke-width="2"/>
+    <path id="Path_271" data-name="Path 271" d="M635.383,1716v-27.539h84.758" transform="translate(827 -1253)" fill="none" stroke="#00254d" stroke-width="2"/>
+    <path id="Path_270" data-name="Path 270" d="M720.142,1716v-27.539H635.383" transform="translate(330 -1253)" fill="none" stroke="#00254d" stroke-width="2"/>
+    <path id="Path_268" data-name="Path 268" d="M635.383,1688.461V1716h84.758" transform="translate(0 -1149)" fill="none" stroke="#00254d" stroke-width="2"/>
+    <path id="Path_272" data-name="Path 272" d="M635.383,1688.461V1716h84.758" transform="translate(827 -1149)" fill="none" stroke="#00254d" stroke-width="2"/>
+    <path id="Path_269" data-name="Path 269" d="M720.142,1688.461V1716H635.383" transform="translate(330 -1149)" fill="none" stroke="#00254d" stroke-width="2"/>
+    <path id="Path_273" data-name="Path 273" d="M1050.142,1820h410.814" transform="translate(0 -1253)" fill="none" stroke="#004188" stroke-width="2"/>
+  </g>
+</svg>
