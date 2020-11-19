@@ -86,5 +86,7 @@ export const Links = {
     XmlData: '/xml-data',
 
     AiPowered: '/ai-powered',
-    ImprovedCustomerRetention: '/improved-customer-retention'
+    ImprovedCustomerRetention: '/improved-customer-retention',
+    TravelHospitality: '/travel-hospitality'
+
 }

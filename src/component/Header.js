@@ -315,7 +315,7 @@ class Header extends Component {
                                                     </li>
                                                     <li className="dropdown_item-1 dropdown dropdown-8"><Link
                                                         className="tablink waves-effect waves-light"
-                                                        to='/travel-hospitality'>Travel and Hospitality</Link>
+                                                        to={TravelHospitality}>Travel and Hospitality</Link>
                                                     </li>
                                                     <li className="dropdown_item-1 dropdown dropdown-8"><Link
                                                         className="tablink waves-effect waves-light"
