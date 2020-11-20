@@ -31,7 +31,7 @@ export default class Retail extends Component {
                                     Advanced Retail <span className="font-weight-light">Analytics</span>
                                 </h4>
                                 <div className="row text-center d-flex justify-content-center mt-4">
-                                    <div className="col-lg-3 p-3 hoverable-2">
+                                    <div className="col-lg-6 p-3 hoverable-2">
                                         <img src="img/svg/012-system-1.svg" height="60px"/>
                                         <h6 className="my-4 font-weight-bold">Customer Segmentation and Profiling
     
@@ -41,7 +41,7 @@ export default class Retail extends Component {
                                             retention/acquisition strategy
                                         </p>
                                     </div>
-                                    <div className="col-lg-3 p-3 hoverable-2">
+                                    <div className="col-lg-6 p-3 hoverable-2">
                                         <img src="img/svg/001-market.svg" height="60px"/>
                                         <h6 className="my-4 font-weight-bold">Market Basket Analysis
     
@@ -50,7 +50,7 @@ export default class Retail extends Component {
                                             plan
                                             product placements accordingly</p>
                                     </div>
-                                    <div className="col-lg-3 p-3 hoverable-2">
+                                    <div className="col-lg-6 p-3 hoverable-2">
                                         <img src="img/svg/002-demand.svg" height="60px"/>
                                         <h6 className="my-4 font-weight-bold">Demand Forecasting
     
@@ -58,7 +58,7 @@ export default class Retail extends Component {
                                             <p className="text-justify">Scrub or add to sales history to generate demand forecast aiding sales planning,
                                             inventory management and resource deployment</p>
                                     </div>
-                                    <div className="col-lg-3 p-3 hoverable-2">
+                                    <div className="col-lg-6 p-3 hoverable-2">
                                         <img src="img/svg/002-speaker.svg" height="60px"/>
                                         <h6 className="my-4 font-weight-bold">Promotion Impact
     

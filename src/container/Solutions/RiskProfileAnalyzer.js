@@ -15,8 +15,8 @@ export default class RiskProfileAnalyzer extends Component {
                                     <h2 className="title mb-5 wow fadeIn  font-weight-bold text-uppercase" data-wow-delay="0.2s">
                                         Risk profile analyzer using genomics <span className="font-weight-light"></span>
                                     </h2>
-                                    <div className="view overlay rounded z-depth-2 mb-lg-0 mb-4">
-                                        <img className="img-fluid" src="img/Images/risk profile GENOMICS.jpg" alt="Sample image" />
+                                    <div className="view overlay rounded mb-lg-0 mb-4">
+                                        <img className="img-fluid" src="img/Images/m1.png" alt="Sample image" />
                                         <a>
                                             <div className="mask rgba-white-slight waves-effect waves-light"></div>
                                         </a>

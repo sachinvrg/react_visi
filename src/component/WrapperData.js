@@ -8,7 +8,7 @@ export const WrapperData = {
     AdaptiveHomepage: {
         heading: 'RETAIL',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1594518746417-4b9aad17489c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80'
+        bannerImgL: 'img/images/retail.jpg'
     },
     AdvancedAnalyticsAi: {
         heading: 'Advanced Analytics & AI',
@@ -32,7 +32,7 @@ export const WrapperData = {
     Banking: {
         heading: 'BANKING & FINANCIAL',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1551260627-fd1b6daa6224?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1347&q=80',
+        bannerImgL: 'https://images.unsplash.com/photo-1423666523292-b458da343f6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1353&q=80',
         Controls: true
     },
     BusinessModelMakeover: {
@@ -43,7 +43,7 @@ export const WrapperData = {
     Chatbots: {
         heading: 'BANKING & FINANCIAL',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1551260627-fd1b6daa6224?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1347&q=80'
+        bannerImgL: 'https://images.unsplash.com/photo-1423666523292-b458da343f6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1353&q=80'
     },
     ClaimsPredictions: {
         heading: 'Healthcare',
@@ -59,12 +59,12 @@ export const WrapperData = {
     ConversationalSupport: {
         heading: 'RETAIL',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1594518746417-4b9aad17489c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80'
+        bannerImgL: 'img/images/retail.jpg'
     },
     CustomizedInvestments: {
         heading: 'BANKING & FINANCIAL',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1551260627-fd1b6daa6224?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1347&q=80'
+        bannerImgL: 'https://images.unsplash.com/photo-1423666523292-b458da343f6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1353&q=80'
     },
     DataEngineering: {
         heading: 'Data Engineering & Visualization',
@@ -93,12 +93,12 @@ export const WrapperData = {
     DemandForecasting: {
         heading: 'RETAIL',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1594518746417-4b9aad17489c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80'
+        bannerImgL: 'img/images/retail.jpg'
     },
     DrillingNptPredictor: {
         heading: 'Oil, Gas & Petrochemical',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1518291182257-c3dbbc38d89f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80'
+        bannerImgL: 'img/Images/oilgas5.jpg'
     },
     DrugRecovery: {
         heading: 'Healthcare',
@@ -124,12 +124,12 @@ export const WrapperData = {
     ImprovedRustomerRetention: {
         heading: 'BANKING & FINANCIAL',
         description: ``,///////////////////////////
-        bannerImgL: 'https://images.unsplash.com/photo-1551260627-fd1b6daa6224?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1347&q=80'
+        bannerImgL: 'https://images.unsplash.com/photo-1423666523292-b458da343f6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1353&q=80'
     },
     Utility: {
         heading: 'Utility',
         description: ``,
-        bannerImgL: 'img/Images/utility_industry.jpg'
+        bannerImgL: 'img/Images/oilgas2.jpg'
     },
     TranspAndLogistic: {
         heading: 'Transportation and Logistics',
@@ -149,7 +149,7 @@ export const WrapperData = {
     SmartRiskPredictorAgileProcess: {
         heading: 'BANKING & FINANCIAL',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1551260627-fd1b6daa6224?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1347&q=80'
+        bannerImgL: 'https://images.unsplash.com/photo-1423666523292-b458da343f6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1353&q=80'
     },
     Services: {
         heading: '',
@@ -165,7 +165,7 @@ export const WrapperData = {
     Retail: {
         heading: 'RETAIL',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1594518746417-4b9aad17489c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
+        bannerImgL: 'img/images/retail.jpg',
     },
     ProcessAutomation: {
         heading: 'Process Automation',
@@ -188,18 +188,18 @@ export const WrapperData = {
     Oilgas: {
         heading: 'Oil, Gas & Petrochemical',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1518291182257-c3dbbc38d89f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
+        bannerImgL: 'img/Images/oilgas5.jpg',
         Controls: true
     },
     LifeTimeValuePrediction: {
         heading: 'BANKING & FINANCIAL',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1551260627-fd1b6daa6224?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1347&q=80',
+        bannerImgL: 'https://images.unsplash.com/photo-1423666523292-b458da343f6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1353&q=80',
     },
     InventoryManage: {
         heading: 'RETAIL',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1594518746417-4b9aad17489c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
+        bannerImgL: 'img/images/retail.jpg',
     },
     Industries: {
         heading: 'Industries',
@@ -227,35 +227,35 @@ export const WrapperData = {
     ClinicalTrial: {
         heading: 'clinical trial planning and execution',
         description: ``,
-        bannerImgL: 'https://www.biospectrumasia.com/uploads/articles/patients_slider-8842.jpg',
+        bannerImgL: 'https://images.unsplash.com/photo-1542736667-069246bdbc6d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80',
         Controls: true
     },
     CustomerEngage: {
         heading: 'RETAIL',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1594518746417-4b9aad17489c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
+        bannerImgL: 'img/images/retail.jpg',
     },
     CustomerInsights: {
         heading: 'Business Process Automation Platform',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1594518746417-4b9aad17489c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
+        bannerImgL: 'img/images/retail.jpg',
     },
     DataDriven: {
         heading: 'DATA DRIVEN DECISION SUPPORT',
         description: ``,
-        bannerImgL: 'https://etimg.etb2bimg.com/thumb/msid-72818662,width-1200,resizemode-4/.jpg',
+        bannerImgL: 'https://images.unsplash.com/photo-1542736667-069246bdbc6d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80',
         Controls: true
     },
     DecisionSupports: {
         heading: 'Decision support for Hospitals',
         description: ``,
-        bannerImgL: 'https://www.testtargettreat.com/content/ttt/en/home/educational-resources/case-studies/influenza-case-study/_jcr_content/mainpar/alereimage_1665461060.img.jpg',
+        bannerImgL: 'https://images.unsplash.com/photo-1511174511562-5f7f18b874f8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
         Controls: true
     },
     DocumentProcessing: {
         heading: 'AI powered Document Processing',
         description: ``,
-        bannerImgL: 'https://www.agcc.co.uk/images/_crop1280X720/Legalisation-of-documents.jpg',
+        bannerImgL: 'https://images.unsplash.com/photo-1603796846097-bee99e4a601f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=80',
         Controls: true
     },
 
@@ -264,7 +264,7 @@ export const WrapperData = {
     EmailAutomation: {
         heading: 'AI powered E-mail Automation',
         description: ``,
-        bannerImgL: 'https://marketingland.com/wp-content/ml-loads/2017/02/flying-email-525062410-ss-1920.jpg',
+        bannerImgL: 'https://images.unsplash.com/photo-1512626120412-faf41adb4874?ixlib=rb-1.2.1&ixid=eyjhchbfawqiojeymdd9&auto=format&fit=crop&w=1350&q=80',
         Controls: true
     },
     PrivacyPolicy: {
@@ -296,18 +296,18 @@ export const WrapperData = {
     RespResearchDev: {
         heading: 'RETAIL',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1594518746417-4b9aad17489c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
+        bannerImgL: 'img/images/retail.jpg',
     },
     SmartCheqe: {
         heading: 'Smart cheque processing',
         description: ``,
-        bannerImgL: 'https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/12/26/00/cheque-GETTY.jpg?width=990',
+        bannerImgL: 'https://images.unsplash.com/photo-1562542472-c36f98399845?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80',
         Controls: true
     },
     SmartOptimization: {
         heading: 'RETAIL',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1594518746417-4b9aad17489c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
+        bannerImgL: 'img/images/retail.jpg',
     },
     SocialMedia: {
         heading: 'Social Media Intelligence',
@@ -338,13 +338,13 @@ export const WrapperData = {
     ImplementHealthcare: {
         heading: 'Implementing preventing healthcare',
         description: ``,
-        bannerImgL: 'https://goodnewsplanet.com/wp-content/uploads/2020/09/happy-nurses-doctors-hospital_13339-6305-1.jpg',
+        bannerImgL: 'https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
         Controls: true
 
     },
 
     Environmental: {
-        heading: ' Environmental',
+        heading: ' Environment',
         description: ``,
         bannerImgL: 'img/Images/environment.jpg',
     },
@@ -362,12 +362,12 @@ export const WrapperData = {
     IntelligentDemandForecast: {
         heading: 'Utility',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1518291182257-c3dbbc38d89f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
+        bannerImgL: 'img/Images/oilgas2.jpg',
     },
     IncidentAnalyzerPredictor: {
         heading: 'Oil, Gas & Petrochemical',
         description: ``,
-        bannerImgL: 'https://images.unsplash.com/photo-1518291182257-c3dbbc38d89f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80'
+        bannerImgL: 'img/Images/oilgas5.jpg'
     }
 }
 

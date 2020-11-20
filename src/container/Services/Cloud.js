@@ -17,24 +17,24 @@ export default class Cloud extends Component {
                             style={{ visibility: "visible", animationName: 'fadeIn', animationDelay: '0.2s' }}>
                             We Offer
                     </h4>
-                        <p className="text-justify">
+                        <p className="text-justify fontW-500">
                             Public Cloud: A Public Cloud is where the service provider makes resources (storage, applications
                             etc.) available to the general public over the Internet. The storage is managed by an external
                             organisation. Public cloud services may be free or offered on a pay-per-usage model;
                     </p>
-                        <p className="text-justify">
+                        <p className="text-justify fontW-500">
                             Private Cloud: A Private Cloud is a cloud computing platform that is implemented within the
                             corporate firewall. Unlike public clouds, which deliver services to multiple organisations, a
                             private cloud infrastructure is operated solely for a single organisation, whether managed
                             internally or by a third-party, and hosted either internally or externally;
                     </p>
-                        <p className="text-justify">
+                        <p className="text-justify fontW-500">
                             Hybrid Cloud: A Hybrid cloud is an integrated cloud service. This model takes advantages of both
                             public and private cloud services by allowing workloads to move between private and public clouds as
                             computing needs and costs change. Hybrid cloud gives businesses greater flexibility and more data
                             deployment options;
                     </p>
-                        <p className="text-justify">
+                        <p className="text-justify fontW-500">
                             Community Cloud: A Community Cloud is where the infrastructure is shared among several organisations
                             from a specific group with common computing interests (security, compliance, jurisdiction, etc.).
                             The costs are shared by fewer users than a public cloud but more than a private cloud;
@@ -46,7 +46,7 @@ export default class Cloud extends Component {
                         <h3 className="title wow fadeIn font-weight-bold text-center text-uppercase" data-wow-delay="0.2s"
                             // eslint-disable-next-line react/style-prop-object
                             style={{ visibility: "visible", animationName: 'fadeIn', animationDelay: '0.2s' }}>
-                            Benifits of
+                            Benefits of
                        <span className="font-weight-light border-line"> Cloud Computing</span>
                         </h3>
                     </div>

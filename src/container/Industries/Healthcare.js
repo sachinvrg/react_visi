@@ -45,7 +45,7 @@ export default class Healthcare extends Component {
                                     <div className="row wow w-100 px-2 justify-content-center fadeIn" data-wow-delay="0.4s">
                                         <div className="text-left col-lg-6 col-md-6 mb-3 px-2">
                                             <div className="feature-title title spacing">
-                                                <img src="https://goodnewsplanet.com/wp-content/uploads/2020/09/happy-nurses-doctors-hospital_13339-6305-1.jpg"
+                                                <img src="https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
                                                     className="img_bg" />
 
                                                 <h6>Implementing preventing healthcare<br /> <Link to={Links.ImplementHealthcare}
@@ -56,7 +56,7 @@ export default class Healthcare extends Component {
                                         </div>
                                         <div className="text-left col-lg-6 col-md-6 mb-3 px-2">
                                             <div className="feature-title title spacing">
-                                                <img src="https://www.testtargettreat.com/content/ttt/en/home/educational-resources/case-studies/influenza-case-study/_jcr_content/mainpar/alereimage_1665461060.img.jpg"
+                                                <img src="https://images.unsplash.com/photo-1511174511562-5f7f18b874f8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
                                                     className="img_bg" />
                                                 <h6>Decision supports for hospitals<br /> <Link to={Links.DecisionSupports}
                                                     className="btn btn-outline-white btn-sm wow fadeIn waves-effect waves-light animated"
@@ -66,7 +66,7 @@ export default class Healthcare extends Component {
                                         </div>
                                         <div className="text-left col-lg-6 col-md-6 mb-3 px-2">
                                             <div className="feature-title title spacing">
-                                                <img src="https://etimg.etb2bimg.com/thumb/msid-72818662,width-1200,resizemode-4/.jpg"
+                                                <img src="https://images.unsplash.com/photo-1542736667-069246bdbc6d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
                                                     className="img_bg" />
                                                 <h6>Data driven decision support for drug discovery<br /> <Link
                                                     to={Links.DataDriven}
@@ -77,7 +77,7 @@ export default class Healthcare extends Component {
                                         </div>
                                         <div className="text-left col-lg-6 col-md-6 mb-3 px-2">
                                             <div className="feature-title title spacing">
-                                                <img src="https://www.biospectrumasia.com/uploads/articles/patients_slider-8842.jpg"
+                                                <img src="https://images.unsplash.com/photo-1582719367079-bc1b8e5fed9d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
                                                     className="img_bg" />
                                                 <h6>clinical trial planning and execution <br /> <Link to={Links.ClinicalTrial}
                                                     className="btn btn-outline-white btn-sm wow fadeIn waves-effect waves-light animated"
@@ -86,7 +86,7 @@ export default class Healthcare extends Component {
                                             </div>
                                         </div>
                                     </div>
-
+                                
                                 </section>
                             </div>
                             <div className="col-md-4">

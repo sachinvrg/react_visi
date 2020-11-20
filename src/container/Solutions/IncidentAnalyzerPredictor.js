@@ -15,8 +15,8 @@ export default class IncidentAnalyzerPredictor extends Component {
                                     <h2 className="title mb-5 wow fadeIn  font-weight-bold text-uppercase" data-wow-delay="0.2s">
                                         Incident and analyzer and predictor
                                     </h2>
-                                    <div className="view overlay rounded z-depth-2 mb-lg-0 mb-4">
-                                        <img className="img-fluid" src="img/Images/oilgas_incident.jpg" alt="Sample image" />
+                                    <div className="view overlay rounded mb-lg-0 mb-4">
+                                        <img className="img-fluid m-auto" src="img/Images/oilgas_incident.png" alt="Sample image" />
                                         <a>
                                             <div className="mask rgba-white-slight waves-effect waves-light"></div>
                                         </a>

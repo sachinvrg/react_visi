@@ -21,7 +21,7 @@ export default class AirPollutionMonitoringPrediction extends Component {
                                     the country's government in the
                                     present date. The risks to biodiversity and life form due to the same is intense, and all
                                     the efforts are being taken by
-                                    the government with the assistance of the environmental industry to counter the same.
+                                    the government with the assistance of the environment industry to counter the same.
                                     </p>
                                     <p className="text-justify">Air pollution is monitored and predicted using the IoT or Internet of Things. The term
                                     refers to actions that are taken
@@ -52,7 +52,7 @@ export default class AirPollutionMonitoringPrediction extends Component {
                                         company to plan on the CSR that they need to do accordingly.</p>
                                     <p className="text-justify">It is very clear how important air pollution monitoring and prediction devices are
                                     regarding the present-day
-                                    environmental situation. The devices are an effort to hopefully reduce the pollution
+                                    environment situation. The devices are an effort to hopefully reduce the pollution
                                         level.</p>
                                 </section>
                             </div>

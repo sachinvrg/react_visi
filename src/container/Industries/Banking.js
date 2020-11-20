@@ -35,7 +35,7 @@ export default class Banking extends Component {
                                         </div>
                                         <div className="text-left col-md-4 mb-3 px-2">
                                             <div className="feature-title title spacing">
-                                                <img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/12/26/00/cheque-GETTY.jpg?width=990"
+                                                <img src="https://images.unsplash.com/photo-1562542472-c36f98399845?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
                                                     className="img_bg" />
                                                 <h6>Smart cheque processing<br /> <Link to={Links.SmartCheqe}
                                                     className="btn btn-outline-white btn-sm wow fadeIn waves-effect waves-light animated"
@@ -45,7 +45,7 @@ export default class Banking extends Component {
                                         </div>
                                         <div className="text-left col-md-4 mb-3 px-2">
                                             <div className="feature-title title spacing">
-                                                <img src="https://marketingland.com/wp-content/ml-loads/2017/02/flying-email-525062410-ss-1920.jpg"
+                                                <img src="https://images.unsplash.com/photo-1512626120412-faf41adb4874?ixlib=rb-1.2.1&ixid=eyjhchbfawqiojeymdd9&auto=format&fit=crop&w=1350&q=80"
                                                     className="img_bg" />
                                                 <h6>Email automation<br /> <Link to={Links.EmailAutomation}
                                                     className="btn btn-outline-white btn-sm wow fadeIn waves-effect waves-light animated"
@@ -57,7 +57,7 @@ export default class Banking extends Component {
                                     <div className="row wow w-100 px-2 justify-content-center fadeIn" data-wow-delay="0.4s">
                                         <div className="text-left col-md-6 mb-3 px-2">
                                             <div className="feature-title title spacing">
-                                                <img src="https://www.agcc.co.uk/images/_crop1280X720/Legalisation-of-documents.jpg"
+                                                <img src="https://images.unsplash.com/photo-1603796846097-bee99e4a601f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=80"
                                                     className="img_bg" />
                                                 <h6>AI powered document processing<br /> <Link to={Links.DocumentProcessing}
                                                     className="btn btn-outline-white btn-sm wow fadeIn waves-effect waves-light animated"
@@ -67,7 +67,7 @@ export default class Banking extends Component {
                                         </div>
                                         <div className="text-left col-md-6 mb-3 px-2">
                                             <div className="feature-title title spacing">
-                                                <img src="https://cdn.business2community.com/wp-content/uploads/2015/09/crm.png.png"
+                                                <img src="https://images.unsplash.com/photo-1559526324-593bc073d938?ixlib=rb-1.2.1&ixid=eyjhchbfawqiojeymdd9&auto=format&fit=crop&w=1350&q=80"
                                                     className="img_bg" />
                                                 <h6>Reduction of not performing assets<br /> <Link
                                                     to={Links.ReductionNotPerforming}
