@@ -84,7 +84,6 @@ p.h5 {
     ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
 }
-
 .navbar-brand.title{
     background-image: url(../img/logo/logo.png);
     background-repeat: no-repeat;
@@ -104,6 +103,7 @@ p.h5 {
 /* .top-nav-collapse a.navbar-brand.title {
     filter: brightness(1);
 } */
+
 .top-nav-collapse .nav-item .nav-link {
     color: #000 !important;
 }
